@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  UISearchBar
 //
-//  Created by 水梨弘翔 on 2021/07/10.
+//  Created by mizoz on 2021/07/10.
 //
 
 import UIKit
